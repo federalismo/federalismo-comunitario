@@ -1,0 +1,33 @@
+*  # Ignora todo
+
+########################
+# Salvo
+
+##  Carpetas
+!*/ 
+
+## Latex
+!*.tex
+*-concordance.tex
+!*.bib
+!*.bst
+
+## Codigo
+!*.sh
+!*.py
+!*.R
+!*.c
+!*.cpp
+!.*.jl
+!*.sql
+
+## Texto
+!*.md
+!*.txt
+
+## Otros
+!makefile
+!Makefile
+!.keep
+!.git*
+
