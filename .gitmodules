@@ -1,0 +1,3 @@
+[submodule "libro/libro"]
+	path = libro/libro
+	url = git@github.com:federalismo/libro.git
